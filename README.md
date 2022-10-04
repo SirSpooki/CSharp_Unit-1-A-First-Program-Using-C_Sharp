@@ -36,3 +36,13 @@ In some museum
 Burma Shave
 
 Find a classic Burma Shave rhyme on the Web and write a program named BurmaShave that displays the rhyme.
+
+Case Problems
+-------------------------------
+1
+--
+Greenville County hosts the Greenville Idol competition each summer during the county fair. The talent competition takes place over a three-day period during which contestants are eliminated following rounds of performances until the year’s ultimate winner is chosen. Write a program named GreenvilleMotto that displays the competition’s motto, which is “The stars shine in Greenville.” Create a second program named GreenvilleMotto2 that displays the motto surrounded by a border composed of asterisks.
+
+2
+--
+Marshall’s Murals is a company that paints interior and exterior murals for both business and residential customers. Write a program named MarshallsMotto that displays the company motto, which is “Make your vision your view.” Create a second program named MarshallsMotto2 that displays the motto surrounded by a border composed of repeated Ms.
